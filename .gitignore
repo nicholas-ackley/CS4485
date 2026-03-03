@@ -1,0 +1,5 @@
+kaggle_nigar_data
+openneuro_data
+.venv
+*.env
+.idea
